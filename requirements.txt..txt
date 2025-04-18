@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+beautifulsoup4
+requests
+fredapi
+matplotlib
+webdriver-manager
+selenium
+
